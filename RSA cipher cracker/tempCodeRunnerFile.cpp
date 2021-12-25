@@ -1,1 +1,0 @@
-            plain.push_back(' ');
